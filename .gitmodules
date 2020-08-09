@@ -1,0 +1,4 @@
+[submodule "src/q3vm"]
+	path = src/q3vm
+	url = https://github.com/Tolmeros/q3vm.git
+	branch = v1.3.1_arduino
